@@ -1,4 +1,4 @@
-# Projeto de Estudo RabbitMQ
+# Projeto de Estudo Kafka
 
 Desenvolvi este projeto com o objetivo de estudar e praticar meus conhecimentos sobre Apache Kafka.
 
@@ -32,7 +32,7 @@ npm i
 
 ### Executando o projeto
 
-- Inicie o servidor rabbitMQ:
+- Inicie o servidor Kafka:
 
 ```bash
 docker-compose up -d
